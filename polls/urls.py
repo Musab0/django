@@ -1,5 +1,4 @@
 from django.urls import path
-
 from . import views
 
 app_name = 'polls' #create url namespace for the poll app
